@@ -6,6 +6,7 @@ to run
 2. create a user: adduser squid
 3. usermod -aG sudo squid
 4. run script
-5. systemctl restart squid 
+5. systemctl restart squid
+
 get ip
 username should be system user and password is what you added at end of script
