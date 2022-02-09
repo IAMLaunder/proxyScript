@@ -5,7 +5,7 @@ to run
 1. sudo -s
 2. create a user: adduser squid
 3. usermod -aG sudo squid
-4. run script if using web hosting (wget <WEBLINK>)
+4. run script if using web hosting (wget WEBLINK)
 5. systemctl restart squid
 
 get ip
